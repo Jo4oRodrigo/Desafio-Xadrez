@@ -1,4 +1,4 @@
-"""# ♟️ Simulação de Movimentos de Peças de Xadrez em C
+# ♟️ Simulação de Movimentos de Peças de Xadrez em C
 
 Este projeto é um exercício de programação em C que simula os movimentos de quatro peças de xadrez — **Torre**, **Bispo**, **Rainha** e **Cavalo** — utilizando **recursividade**, **loops simples**, **loops aninhados** e **controle de fluxo**.
 
@@ -113,4 +113,3 @@ Organização de código: Funções separadas por peça para melhor legibilidade
 
 📜 Licença
 Este projeto é apenas para fins educacionais e está sob a licença MIT.
-"""
